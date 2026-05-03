@@ -24,7 +24,6 @@ The installer includes:
 - **SimPassengers Bridge** — the SimConnect-aware backend that talks to MSFS 2024.
 - **SimPassengers Launcher** — the desktop window where you sign in, manage settings, and check your licence.
 - **In-sim panel package** — auto-installed into your MSFS 2024 Community folder (Store and Steam editions both supported).
-- **Bundled Piper voices** — captain and cabin crew text-to-speech voices ship inside the installer.
 
 ---
 
