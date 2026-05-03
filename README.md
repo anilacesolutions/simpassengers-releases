@@ -5,7 +5,7 @@ This repository hosts the public release artifacts (Windows installers, checksum
 The source code is proprietary and not included here. This repository exists solely to deliver downloadable installers from a stable URL pattern with version tagging and CDN-backed delivery.
 
 > Looking for the live site? **[simpassengers.com](https://simpassengers.com)**
-> Need support? **[anil@ace-solutions.io](mailto:anil@ace-solutions.io)**
+> Need support? **[hello@ace-solutions.io](mailto:hello@ace-solutions.io)**
 
 ---
 
@@ -49,7 +49,7 @@ The installer includes:
 
 Bugs, crashes, or anything that doesn't behave the way you'd expect:
 
-- **Email** [anil@ace-solutions.io](mailto:anil@ace-solutions.io)
+- **Email** [hello@ace-solutions.io](mailto:hello@ace-solutions.io)
 - **Discord** [discord.gg/M7CC5mrsJ](https://discord.gg/M7CC5mrsJ)
 
 Please include the version number from the launcher's bottom-left corner and a short description of the steps that triggered the issue.
